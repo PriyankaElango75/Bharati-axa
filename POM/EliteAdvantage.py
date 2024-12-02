@@ -16,7 +16,7 @@ class EliteAdvantage:
         self.base_obj.enter_text(("id","txtLifeAssuredFirstName"),firstname)
         self.base_obj.select_item(("xpath","//select[@id='ddlLI_GENDER']"),gender)
         self.base_obj.select_item(("xpath","//select[@id='ddlAgeProof']"),ageproof)
-        self. 
+        # self.
 
 
 
